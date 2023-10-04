@@ -18,7 +18,7 @@ Materials for 2023 NHS-R Community Conference workshop on Seaborn
 - [Part 2](https://github.com/jumpingrivers/2023-nhs-r-seaborn/tree/main/scripts/chapter2)
 
 
-## Dependencies :white_tick:
+## Dependencies :white_check_mark:
 
 The workshop dependencies can be installed by running:
 
