@@ -14,5 +14,5 @@ Materials for 2023 NHS-R Community Conference workshop on Seaborn
 ## Materials :books:
 
 - [Slides]()
-- [Exercises]()
-- [Demos]()
+- [Part 1](https://github.com/jumpingrivers/2023-nhs-r-seaborn/tree/main/scripts/chapter1)
+- [Part 2](https://github.com/jumpingrivers/2023-nhs-r-seaborn/tree/main/scripts/chapter2)
